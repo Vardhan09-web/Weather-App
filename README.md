@@ -27,8 +27,8 @@ A responsive and modern weather application built using **React** and **Vite**. 
 ## Screenshots 📸
 
 ### Home Page
-![Weather App Home Page](./assets/screenshot-home.png)  
-*(Add a screenshot of your app here)*
+![Weather App Page](./assets/Screenshot-home.png)  
+
 
 ---
 
